@@ -1,0 +1,15 @@
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\bin\Debug\net10.0\CLI20261112doga.exe
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\bin\Debug\net10.0\CLI20261112doga.deps.json
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\bin\Debug\net10.0\CLI20261112doga.runtimeconfig.json
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\bin\Debug\net10.0\CLI20261112doga.dll
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\bin\Debug\net10.0\CLI20261112doga.pdb
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\obj\Debug\net10.0\CLI20261112doga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\obj\Debug\net10.0\CLI20261112doga.AssemblyInfoInputs.cache
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\obj\Debug\net10.0\CLI20261112doga.AssemblyInfo.cs
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\obj\Debug\net10.0\CLI20261112doga.csproj.CoreCompileInputs.cache
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\obj\Debug\net10.0\CLI20261112doga.dll
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\obj\Debug\net10.0\refint\CLI20261112doga.dll
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\obj\Debug\net10.0\CLI20261112doga.pdb
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\obj\Debug\net10.0\CLI20261112doga.genruntimeconfig.cache
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\obj\Debug\net10.0\ref\CLI20261112doga.dll
+C:\Users\nanasi.tamas\Desktop\CLI20261112doga\CLI20261112doga\obj\Debug\net10.0\CLI20261.3EBEAC04.Up2Date

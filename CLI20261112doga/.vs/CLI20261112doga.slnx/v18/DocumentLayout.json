@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nanasi.tamas\\Desktop\\CLI20261112doga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF2C9F7-1CE6-460F-ADC6-ED14F7E04CF5}|CLI20261112doga\\CLI20261112doga.csproj|c:\\users\\nanasi.tamas\\desktop\\cli20261112doga\\cli20261112doga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF2C9F7-1CE6-460F-ADC6-ED14F7E04CF5}|CLI20261112doga\\CLI20261112doga.csproj|solutionrelative:cli20261112doga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF2C9F7-1CE6-460F-ADC6-ED14F7E04CF5}|CLI20261112doga\\CLI20261112doga.csproj|c:\\users\\nanasi.tamas\\desktop\\cli20261112doga\\cli20261112doga\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF2C9F7-1CE6-460F-ADC6-ED14F7E04CF5}|CLI20261112doga\\CLI20261112doga.csproj|solutionrelative:cli20261112doga\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Videogame.cs",
+              "DocumentMoniker": "C:\\Users\\nanasi.tamas\\Desktop\\CLI20261112doga\\CLI20261112doga\\Videogame.cs",
+              "RelativeDocumentMoniker": "CLI20261112doga\\Videogame.cs",
+              "ToolTip": "C:\\Users\\nanasi.tamas\\Desktop\\CLI20261112doga\\CLI20261112doga\\Videogame.cs",
+              "RelativeToolTip": "CLI20261112doga\\Videogame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T07:07:40.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nanasi.tamas\\Desktop\\CLI20261112doga\\CLI20261112doga\\Program.cs",
+              "RelativeDocumentMoniker": "CLI20261112doga\\Program.cs",
+              "ToolTip": "C:\\Users\\nanasi.tamas\\Desktop\\CLI20261112doga\\CLI20261112doga\\Program.cs",
+              "RelativeToolTip": "CLI20261112doga\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T07:03:33.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
